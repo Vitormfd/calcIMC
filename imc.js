@@ -30,5 +30,4 @@ function recebeEventoForm(evento) {
 
 }
 form.addEventListener('submit', recebeEventoForm);//impede da pagina atualizar ao enviar o formulario
-
-
+console.log('');
